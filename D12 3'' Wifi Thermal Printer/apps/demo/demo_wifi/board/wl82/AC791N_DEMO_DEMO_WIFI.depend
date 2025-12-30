@@ -1,0 +1,1166 @@
+# depslib dependency file v1.0
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\cpu\wl82\debug.c
+	"system/includes.h"
+	"asm/debug.h"
+	"asm/sfc_norflash_api.h"
+	"app_config.h"
+	"fs/fs.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\includes.h
+	"generic/includes.h"
+	"init.h"
+	"spinlock.h"
+	"task.h"
+	"timer.h"
+	"sys_time.h"
+	"wait.h"
+	"malloc.h"
+	"app_core.h"
+	"app_msg.h"
+	"bank_switch.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\generic\includes.h
+	"errno-base.h"
+	"typedef.h"
+	"ascii.h"
+	"atomic.h"
+	"ioctl.h"
+	"cpu.h"
+	"irq.h"
+	"jiffies.h"
+	"list.h"
+	"printf.h"
+	"rect.h"
+	"version.h"
+	"lbuf.h"
+	"lbuf_lite.h"
+	"circular_buf.h"
+	"debug_lite.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\generic\errno-base.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\generic\typedef.h
+	"asm/cpu.h"
+	"generic/errno-base.h"
+	"string.h"
+	"strings.h"
+	"system/malloc.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\cpu.h
+	"WL82.h"
+	"asm/irq.h"
+	"generic/printf.h"
+	"system/generic/log.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\wl82.h
+	"csfr.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\csfr.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\irq.h
+	"asm/hwi.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\hwi.h
+	"generic/typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\generic\printf.h
+	<stdarg.h>
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\generic\log.h
+	"generic/typedef.h"
+	"generic/printf.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\malloc.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\generic\ascii.h
+	"typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\generic\atomic.h
+	"cpu.h"
+	"irq.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\generic\cpu.h
+	<asm/cpu.h>
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\generic\irq.h
+	"asm/irq.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\generic\ioctl.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\generic\jiffies.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\generic\list.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\generic\rect.h
+	"typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\generic\version.h
+	"typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\generic\lbuf.h
+	"typedef.h"
+	"list.h"
+	"system/spinlock.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\spinlock.h
+	"generic/typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\generic\lbuf_lite.h
+	"typedef.h"
+	"list.h"
+	"system/spinlock.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\generic\circular_buf.h
+	"typedef.h"
+	"system/spinlock.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\generic\debug_lite.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\init.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\task.h
+	"os/os_api.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\os\os_api.h
+	"generic/typedef.h"
+	"os/os_cpu.h"
+	"os/os_error.h"
+	"os/os_type.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\os\os_cpu.h
+	"asm/cpu.h"
+	"generic/jiffies.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\os\os_error.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\os\os_type.h
+	<os/ucos_ii.h>
+	"FreeRTOS/FreeRTOS.h"
+	"FreeRTOS/semphr.h"
+	"FreeRTOS/task.h"
+	"generic/list.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\os\ucos_ii.h
+	"generic/typedef.h"
+	"os/os_cpu.h"
+	"os/os_cfg.h"
+	"os/os_api.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\os\os_cfg.h
+	"os/os_cpu.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\os\freertos\freertos.h
+	"FreeRTOSConfig.h"
+	"projdefs.h"
+	"portable.h"
+	<reent.h>
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\os\freertos\freertosconfig.h
+	"pi32v2/portmacro.h"
+	"pi32_lto/portmacro.h"
+	"q32s/portmacro.h"
+	"generic/printf.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\os\freertos\pi32v2\portmacro.h
+	"asm/cpu.h"
+	<stdint.h>
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\os\freertos\pi32_lto\portmacro.h
+	"asm/cpu.h"
+	<stdint.h>
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\os\freertos\q32s\portmacro.h
+	"asm/cpu.h"
+	<stdint.h>
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\os\freertos\projdefs.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\os\freertos\portable.h
+	"deprecated_definitions.h"
+	"portmacro.h"
+	"mpu_wrappers.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\os\freertos\deprecated_definitions.h
+	"..\..\Source\portable\owatcom\16bitdos\pc\portmacro.h"
+	"..\..\Source\portable\owatcom\16bitdos\flsh186\portmacro.h"
+	"../portable/GCC/ATMega323/portmacro.h"
+	"../portable/IAR/ATMega323/portmacro.h"
+	"../../Source/portable/MPLAB/PIC24_dsPIC/portmacro.h"
+	"../../Source/portable/MPLAB/PIC24_dsPIC/portmacro.h"
+	"../../Source/portable/MPLAB/PIC18F/portmacro.h"
+	"../../Source/portable/MPLAB/PIC32MX/portmacro.h"
+	"libFreeRTOS/Include/portmacro.h"
+	"../../Source/portable/SDCC/Cygnal/portmacro.h"
+	"../../Source/portable/GCC/ARM7_LPC2000/portmacro.h"
+	"portmacro.h"
+	"../../Source/portable/GCC/ARM7_LPC23xx/portmacro.h"
+	"..\..\Source\portable\IAR\MSP430\portmacro.h"
+	"../../Source/portable/GCC/MSP430F449/portmacro.h"
+	"../../Source/portable/Rowley/MSP430F449/portmacro.h"
+	"..\..\Source\portable\RVDS\ARM7_LPC21xx\portmacro.h"
+	"../../Source/portable/GCC/ARM7_AT91SAM7S/portmacro.h"
+	"..\..\Source\portable\IAR\AtmelSAM7S64\portmacro.h"
+	"..\..\Source\portable\IAR\AtmelSAM9XE\portmacro.h"
+	"..\..\Source\portable\IAR\LPC2000\portmacro.h"
+	"..\..\Source\portable\IAR\STR71x\portmacro.h"
+	"..\..\Source\portable\IAR\STR75x\portmacro.h"
+	"..\..\Source\portable\GCC\STR75x\portmacro.h"
+	"..\..\Source\portable\IAR\STR91x\portmacro.h"
+	"../../Source/portable/GCC/H8S2329/portmacro.h"
+	"../../Source/portable/GCC/ARM7_AT91FR40008/portmacro.h"
+	"../../Source/portable/RVDS/ARM_CM3/portmacro.h"
+	"../../Source/portable/GCC/ARM_CM3/portmacro.h"
+	"../../Source/portable/GCC/ARM_CM3/portmacro.h"
+	"../../Source/portable/IAR/ARM_CM3/portmacro.h"
+	"../../Source/portable/IAR/ARM_CM3/portmacro.h"
+	"../../Source/portable/CodeWarrior/HCS12/portmacro.h"
+	"../../Source/portable/GCC/MicroBlaze/portmacro.h"
+	"..\..\Source\portable\Paradigm\Tern_EE\small\portmacro.h"
+	"../../Source/portable/GCC/HCS12/portmacro.h"
+	"../../Source/portable/GCC/MCF5235/portmacro.h"
+	"../../../Source/portable/GCC/ColdFire_V2/portmacro.h"
+	"../../Source/portable/CodeWarrior/ColdFire_V2/portmacro.h"
+	"../../Source/portable/GCC/PPC405_Xilinx/portmacro.h"
+	"../../Source/portable/GCC/PPC440_Xilinx/portmacro.h"
+	"..\..\Source\portable\Softune\MB96340\portmacro.h"
+	"frconfig.h"
+	"..\portable\BCC\16BitDOS\PC\prtmacro.h"
+	"frconfig.h"
+	"..\portable\BCC\16BitDOS\flsh186\prtmacro.h"
+	"portmacro.h"
+	"portmacro.h"
+	"portmacro.h"
+	"portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/78K0R/portmacro.h"
+	"../../Source/portable/IAR/78K0R/portmacro.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\os\freertos\mpu_wrappers.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\os\freertos\semphr.h
+	"queue.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\os\freertos\queue.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\os\freertos\task.h
+	"list.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\os\freertos\list.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\timer.h
+	"generic/typedef.h"
+	"generic/list.h"
+	"system/spinlock.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\sys_time.h
+	"generic/typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\wait.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\app_core.h
+	"generic/typedef.h"
+	"generic/list.h"
+	"utils/event/event.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\utils\event\event.h
+	"generic/typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\app_msg.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\bank_switch.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\debug.h
+	"generic/typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\sfc_norflash_api.h
+	"typedef.h"
+	"asm/cpu.h"
+	"device/device.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\device\device.h
+	"generic/typedef.h"
+	"generic/list.h"
+	"generic/atomic.h"
+	"device/ioctl_cmds.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\device\ioctl_cmds.h
+
+1666755631 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\demo\demo_wifi\include\app_config.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\utils\fs\fs.h
+	"generic/typedef.h"
+	"generic/list.h"
+	"generic/ioctl.h"
+	"generic/atomic.h"
+	"system/task.h"
+	"system/malloc.h"
+	"system/sys_time.h"
+	"stdarg.h"
+	"fs_file_name.h"
+	"sdfile.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\utils\fs\fs_file_name.h
+	"generic/typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\utils\fs\sdfile.h
+	"typedef.h"
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\cpu\wl82\iic.c
+	"asm/includes.h"
+	"device/gpio.h"
+	"device/iic.h"
+	"system/includes.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\includes.h
+	"audio.h"
+	"adc_api.h"
+	"cache.h"
+	"cpu.h"
+	"dma.h"
+	"debug.h"
+	"gpio.h"
+	"hwi.h"
+	"iic.h"
+	"irq.h"
+	"lock.h"
+	"sdmmc.h"
+	"spiflash.h"
+	"startup.h"
+	"uart.h"
+	"imc.h"
+	"isc.h"
+	"rtc.h"
+	"clock.h"
+	"crc16.h"
+	"spi.h"
+	"imd.h"
+	"imr.h"
+	"image_enc.h"
+	"jpeg_codec.h"
+	"imb_driver.h"
+	"uvc_device.h"
+	"bus_device.h"
+	"video/video.h"
+	"pap.h"
+	"emi.h"
+	"power_interface.h"
+	"p33.h"
+	"pwm.h"
+	"pwm_led.h"
+	"wdt.h"
+	"jpeg_decoder.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\audio.h
+	"typedef.h"
+	"asm/ladc.h"
+	"asm/dac.h"
+	"asm/iis.h"
+	"asm/plnk.h"
+	"asm/src.h"
+	"asm/spdif.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\ladc.h
+	"generic/typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\dac.h
+	"generic/typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\iis.h
+	"generic/typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\plnk.h
+	"generic/typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\src.h
+	"typedef.h"
+	"generic/circular_buf.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\spdif.h
+	"generic/typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\adc_api.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\cache.h
+	"typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\dma.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\gpio.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\iic.h
+	"typedef.h"
+	"asm/cpu.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\lock.h
+	"typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\sdmmc.h
+	"sdio/sdmmc.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\device\sdio\sdmmc.h
+	"generic/typedef.h"
+	"generic/ioctl.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\spiflash.h
+	"device/device.h"
+	"device/spiflash.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\device\spiflash.h
+	"typedef.h"
+	"generic/list.h"
+	"generic/ioctl.h"
+	"device/device.h"
+	"system/task.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\startup.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\uart.h
+	"device/uart.h"
+	"device/device.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\device\uart.h
+	"generic/typedef.h"
+	"device/device.h"
+	"generic/ioctl.h"
+	"system/task.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\imc.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\isc.h
+	"gpio.h"
+	"fs/fs.h"
+	"spinlock.h"
+	"asm/isp_dev.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\isp_dev.h
+	"cpu.h"
+	"ioctl.h"
+	"typedef.h"
+	"device_drive.h"
+	"errno-base.h"
+	"asm/isp_alg.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\device_drive.h
+	"typedef.h"
+	"errno-base.h"
+	"ioctl.h"
+	"os/os_api.h"
+	<pthread.h>
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\isp_alg.h
+	"typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\rtc.h
+	"typedef.h"
+	"device/device.h"
+	"generic/ioctl.h"
+	"system/sys_time.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\clock.h
+	"typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\crc16.h
+	"typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\spi.h
+	"typedef.h"
+	"generic/ioctl.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\imd.h
+	"typedef.h"
+	"video/fb.h"
+	"asm/imr.h"
+	"device/device.h"
+	"asm/port_waked_up.h"
+	"os/os_api.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\device\video\fb.h
+	"typedef.h"
+	"ioctl.h"
+	"device/device.h"
+	"system/spinlock.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\imr.h
+	"typedef.h"
+	"device/device.h"
+	"ioctl.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\port_waked_up.h
+	"typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\image_enc.h
+	"video/video.h"
+	"asm/jpeg_codec.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\device\video\video.h
+	"video/video_ioctl.h"
+	"device/device.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\device\video\video_ioctl.h
+	"typedef.h"
+	"generic/list.h"
+	"generic/ioctl.h"
+	"generic/lbuf.h"
+	"system/task.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\jpeg_codec.h
+	"typedef.h"
+	"video/video.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\imb_driver.h
+	"video/fb.h"
+	"typedef.h"
+	"asm/imd.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\uvc_device.h
+	"video/video.h"
+	"video/camera.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\device\video\camera.h
+	"device/device.h"
+	"asm/isp_dev.h"
+	"video/video.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\bus_device.h
+	"typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\pap.h
+	"typedef.h"
+	"asm/cpu.h"
+	"os/os_api.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\emi.h
+	"device.h"
+	"generic/typedef.h"
+	"generic/list.h"
+	"device/gpio.h"
+	"generic/atomic.h"
+	"generic/ioctl.h"
+	"device/ioctl_cmds.h"
+	"os/os_api.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\device\gpio.h
+	"asm/gpio.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\power_interface.h
+	"generic/typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\p33.h
+	"typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\pwm.h
+	"includes.h"
+	"device/device.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\pwm_led.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\wdt.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\jpeg_decoder.h
+	"typedef.h"
+	"spinlock.h"
+	"jpeg_codec.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\device\iic.h
+	"typedef.h"
+	"device/device.h"
+	"generic/ioctl.h"
+	"system/task.h"
+	"asm/iic.h"
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\cpu\wl82\key\adc_api.c
+	"generic/typedef.h"
+	"asm/clock.h"
+	"asm/adc_api.h"
+	"system/timer.h"
+	"asm/efuse.h"
+	"asm/p33.h"
+	"asm/power_interface.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\efuse.h
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\cpu\wl82\port_waked_up.c
+	"asm/includes.h"
+	"device/gpio.h"
+	"system/includes.h"
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\cpu\wl82\setup.c
+	"app_config.h"
+	"asm/includes.h"
+	"system/includes.h"
+	"asm/system_reset_reason.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\system_reset_reason.h
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\btctrler\version.z.s
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\btstack\version.z.s
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\version.z.s
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\media\version.z.s
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\version.z.s
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\server\version.z.s
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\version.z.s
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\update\version.z.s
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\utils\version.z.s
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\lib\net\version.z.s
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\lib\server\version.z.s
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\lib\utils\version.z.s
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\common\config\log_config\lib_driver_config.c
+	"app_config.h"
+	"system/includes.h"
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\common\config\log_config\lib_system_config.c
+	"app_config.h"
+	"system/includes.h"
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\common\config\log_config\lib_update_config.c
+	"app_config.h"
+	"system/includes.h"
+	"update_loader_download.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\update\update_loader_download.h
+	"typedef.h"
+	"system/task.h"
+
+1666752851 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\common\config\user_cfg.c
+	"app_config.h"
+	"fs/fs.h"
+	"system/includes.h"
+	"syscfg/syscfg_id.h"
+	"asm/crc16.h"
+	"asm/sfc_norflash_api.h"
+	"server/audio_dev.h"
+	"wifi/wifi_connect.h"
+	"device/gpio.h"
+	"device/uart.h"
+	"debug.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\utils\syscfg\syscfg_id.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\server\audio_dev.h
+	"generic/list.h"
+	"typedef.h"
+	"device/device.h"
+	"generic/circular_buf.h"
+	"os/os_api.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\wifi\wifi_connect.h
+	"generic/typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\debug.h
+	"asm/cpu.h"
+	"generic/typedef.h"
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\common\debug\debug.c
+	"app_config.h"
+	"typedef.h"
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\common\debug\debug_user.c
+	"app_config.h"
+	"typedef.h"
+	"syscfg/syscfg_id.h"
+	"os/os_api.h"
+	"spinlock.h"
+	"wifi/wifi_connect.h"
+	"device/device.h"
+	"http/http_cli.h"
+	"json_c/json_object.h"
+	"system/includes.h"
+	"os/os_api.h"
+	"storage_device.h"
+	"system/init.h"
+	"fs/fs.h"
+	"os/os_api.h"
+	"system/init.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\http\http_cli.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\json_c\json_object.h
+	<stddef.h>
+	"json_inttypes.h"
+	"printbuf.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\json_c\json_inttypes.h
+	"json_config.h"
+	<inttypes.h>
+	<stdint.h>
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\json_c\json_config.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\json_c\printbuf.h
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\common\net\assign_macaddr.c
+	"os/os_api.h"
+	"device/device.h"
+	"wifi/wifi_connect.h"
+	"json_c/json.h"
+	"json_c/json_tokener.h"
+	"lwip.h"
+	"http/http_cli.h"
+	"app_config.h"
+	"system/database.h"
+	"system/init.h"
+	"boot.h"
+	"asm/sfc_norflash_api.h"
+	"asm/crc16.h"
+	"syscfg/syscfg_id.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\json_c\json.h
+	"json_debug.h"
+	"linkhash.h"
+	"arraylist.h"
+	"json_util.h"
+	"json_object.h"
+	"json_pointer.h"
+	"json_tokener.h"
+	"json_object_iterator.h"
+	"json_c_version.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\json_c\json_debug.h
+	<stdlib.h>
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\json_c\linkhash.h
+	"json_object.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\json_c\arraylist.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\json_c\json_util.h
+	"json_object.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\json_c\json_pointer.h
+	"json_object.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\json_c\json_tokener.h
+	<stddef.h>
+	"json_object.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\json_c\json_object_iterator.h
+	<stddef.h>
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\json_c\json_c_version.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\port\lwip.h
+	"lwip/netif.h"
+	"lwip/prot/ethernet.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\netif.h
+	"lwip/opt.h"
+	"lwip/err.h"
+	"lwip/ip_addr.h"
+	"lwip/def.h"
+	"lwip/pbuf.h"
+	"lwip/stats.h"
+
+1667033521 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\opt.h
+	"lwipopts_sfc.h"
+	"lwipopts.h"
+	"lwip/debug.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\port\lwipopts_sfc.h
+	<errno.h>
+	"utils/crypto_toolbox/endian.h"
+	"sys/time.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\utils\crypto_toolbox\endian.h
+	"generic/typedef.h"
+
+1667179728 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\port\lwipopts.h
+	<errno.h>
+	"utils/crypto_toolbox/endian.h"
+	"sys/time.h"
+
+1667034474 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\debug.h
+	"lwip/arch.h"
+	"lwip/opt.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\arch.h
+	"arch/cc.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdint.h>
+	<inttypes.h>
+	<limits.h>
+	<unistd.h>
+	<ctype.h>
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\port\arch\cc.h
+	"arch/cpu.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\port\arch\cpu.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\err.h
+	"lwip/opt.h"
+	"lwip/arch.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\ip_addr.h
+	"lwip/opt.h"
+	"lwip/def.h"
+	"lwip/ip4_addr.h"
+	"lwip/ip6_addr.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\def.h
+	"lwip/arch.h"
+	"lwip/opt.h"
+	"arch/perf.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\port\arch\perf.h
+
+1666750414 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\ip4_addr.h
+	"lwip/opt.h"
+	"lwip/def.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\ip6_addr.h
+	"lwip/opt.h"
+	"def.h"
+	"lwip/ip6_zone.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\ip6_zone.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\pbuf.h
+	"lwip/opt.h"
+	"lwip/err.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\stats.h
+	"lwip/opt.h"
+	"lwip/mem.h"
+	"lwip/memp.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\mem.h
+	"lwip/opt.h"
+	"lwip/arch.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\memp.h
+	"lwip/opt.h"
+	"lwip/priv/memp_std.h"
+	"lwip/priv/memp_std.h"
+	"lwip/priv/memp_priv.h"
+	"lwip/stats.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\priv\memp_std.h
+	"lwippools.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\priv\memp_priv.h
+	"lwip/opt.h"
+	"lwip/mem.h"
+	"lwip/priv/mem_priv.h"
+	"lwip/priv/memp_std.h"
+	"lwip/priv/memp_std.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\priv\mem_priv.h
+	"lwip/opt.h"
+	"lwip/mem.h"
+
+1666848750 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\prot\ethernet.h
+	"lwip/arch.h"
+	"lwip/prot/ieee.h"
+	"arch/bpstruct.h"
+	"arch/epstruct.h"
+	"arch/bpstruct.h"
+	"arch/epstruct.h"
+	"arch/bpstruct.h"
+	"arch/epstruct.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\prot\ieee.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\database.h
+	"generic/typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\boot.h
+	"asm/cpu.h"
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\common\net\config_network.c
+	"wifi/wifi_connect.h"
+	"lwip/sockets.h"
+	"lwip/netdb.h"
+	"os/os_api.h"
+	"system/init.h"
+	"lwip.h"
+	"device/device.h"
+	"system/app_core.h"
+	"server/server_core.h"
+	"system/timer.h"
+	"asm/debug.h"
+	"asm/power_interface.h"
+	"app_config.h"
+	"http/http_cli.h"
+	"system/timer.h"
+	"database.h"
+	"json_c/json_tokener.h"
+	"voiceprint_cfg.h"
+	"server/net_server.h"
+	<time.h>
+	"event/net_event.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\sockets.h
+	"lwip/opt.h"
+	"lwip/ip_addr.h"
+	"lwip/netif.h"
+	"lwip/err.h"
+	"lwip/inet.h"
+	"lwip/_errno.h"
+	<string.h>
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\inet.h
+	"lwip/opt.h"
+	"lwip/def.h"
+	"lwip/ip_addr.h"
+	"lwip/ip6_addr.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\_errno.h
+	"lwip/opt.h"
+	<errno.h>
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\netdb.h
+	"lwip/opt.h"
+	"lwip/arch.h"
+	"lwip/inet.h"
+	"lwip/sockets.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\server\server_core.h
+	"generic/typedef.h"
+	"system/task.h"
+	"spinlock.h"
+	"list.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\common\net\voiceprint_cfg.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\server\net_server.h
+	"fs/fs.h"
+	"lwip/sockets.h"
+	"lwip/netdb.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\utils\event\net_event.h
+	"event/event.h"
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\common\net\iperf_test.c
+	<stdlib.h>
+	"app_config.h"
+	"os/os_api.h"
+	"lwip/sockets.h"
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\common\net\platform_cfg.c
+	"app_config.h"
+	"system/init.h"
+	"generic/typedef.h"
+	"syscfg/syscfg_id.h"
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\common\net\wifi_conf.c
+	<string.h>
+	"generic/typedef.h"
+	"app_config.h"
+	"asm/crc16.h"
+	"database.h"
+	"syscfg/syscfg_id.h"
+	"asm/sfc_norflash_api.h"
+	"wifi/wifi_connect.h"
+	"lwip.h"
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\common\rf_fcc_tool\rf_fcc_main.c
+	"asm/gpio.h"
+	"device/uart.h"
+	"list.h"
+	"datatype.h"
+	"rf_fcc_main.h"
+	"wifi/wifi_connect.h"
+	"btcontroller_modules.h"
+	"utils/syscfg/syscfg_id.h"
+	"app_config.h"
+	"sock_api/sock_api.h"
+	"gpcnt.h"
+	"gpio.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\common\rf_fcc_tool\include\datatype.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\common\rf_fcc_tool\include\rf_fcc_main.h
+	"app_config.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\btctrler\btcontroller_modules.h
+	"hci_transport.h"
+	"btcontroller_mode.h"
+	"ble/hci_ll.h"
+	"classic/hci_lmp.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\btctrler\hci_transport.h
+	"generic/typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\btctrler\btcontroller_mode.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\btctrler\ble\hci_ll.h
+	<stdint.h>
+	<stdlib.h>
+	<stdarg.h>
+	"typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\btctrler\classic\hci_lmp.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\app\sock_api\sock_api.h
+	"lwip/sockets.h"
+	"lwip/netdb.h"
+	"os/os_api.h"
+	"generic/list.h"
+	"string.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\device\gpcnt.h
+	"generic/typedef.h"
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\common\system\init.c
+	"app_config.h"
+	"asm/includes.h"
+	"system/init.h"
+	"system/task.h"
+	"app_core.h"
+	"irq.h"
+	"version.h"
+	"jiffies.h"
+	"system/timer.h"
+	"mem_leak_test.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\system\mem_leak_test.h
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\common\system\system_reset_reason.c
+	"init.h"
+	"asm/p33.h"
+	"asm/system_reset_reason.h"
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\common\system\version.c
+	"system/includes.h"
+	"generic/log.h"
+	"app_config.h"
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\common\update\update.c
+	"update.h"
+	"update_loader_download.h"
+	"asm/crc16.h"
+	"asm/wdt.h"
+	"os/os_api.h"
+	"app_config.h"
+	"cpu.h"
+	"syscfg_id.h"
+	"btcontroller_modules.h"
+	"system/includes.h"
+	"uart_update.h"
+	"dual_bank_updata_api.h"
+	"btstack/avctp_user.h"
+	"asm/power_interface.h"
+	"ui/ui_api.h"
+	"rcsp_user_update.h"
+	"rcsp_adv_user_update.h"
+	"tone_player.h"
+	"audio_config.h"
+	"asm/pwm_led.h"
+	"system/debug.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\update\update.h
+	"typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\update\uart_update.h
+	"typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\update\dual_bank_updata_api.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\btstack\avctp_user.h
+	"typedef.h"
+	"btstack_typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\btstack\btstack_typedef.h
+	"typedef.h"
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\demo\demo_wifi\app_main.c
+	"app_config.h"
+	"system/includes.h"
+	"os/os_api.h"
+	"event/net_event.h"
+	"wifi/wifi_connect.h"
+	"net/config_network.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\common\net\config_network.h
+
+1666755629 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\demo\demo_wifi\wifi_demo_task.c
+	"app_config.h"
+	"system/includes.h"
+	"wifi/wifi_connect.h"
+	"lwip.h"
+	"dhcp_srv/dhcp_srv.h"
+	"event/net_event.h"
+	"net/assign_macaddr.h"
+	"syscfg_id.h"
+	"lwip/sockets.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\net\lwip_2_1_3\lwip\app\dhcp_srv\dhcp_srv.h
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\common\net\assign_macaddr.h
+
+1665129314 source:g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\apps\demo\demo_wifi\board\wl82\board.c
+	"app_config.h"
+	"system/includes.h"
+	"device/includes.h"
+	"asm/includes.h"
+	"wifi/wifi_connect.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\device\includes.h
+	"device.h"
+	"ioctl_cmds.h"
+	"key/key_driver.h"
+	"key/adkey.h"
+	"key/iokey.h"
+	"key/irkey.h"
+	"key/slidekey.h"
+	"key/touch_key.h"
+	"key/ctmu_key.h"
+	"key/rdec_key.h"
+	"key/tent600_key.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\device\key\key_driver.h
+	"generic/typedef.h"
+	"event/key_event.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\utils\event\key_event.h
+	"event/event.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\device\key\adkey.h
+	"generic/typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\device\key\iokey.h
+	"generic/typedef.h"
+	"device/device.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\device\key\irkey.h
+	"generic/typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\device\key\slidekey.h
+	"generic/typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\device\key\touch_key.h
+	"generic/typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\device\key\ctmu_key.h
+	"generic/typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\device\key\rdec_key.h
+	"generic/typedef.h"
+	"asm/rdec.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\cpu\wl82\asm\rdec.h
+	"generic/typedef.h"
+
+1665129314 g:\jypro\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\fw-ac79_aiot_sdk-release-ac79nn_sdk_v1.1.0\include_lib\driver\device\key\tent600_key.h
+	"generic/typedef.h"
+

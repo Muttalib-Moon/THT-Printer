@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="..\..\bt_ble\spp_trans_data.c" open="1" top="0" tabpos="37" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="480" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\usb\usb_std_class_def.h" open="1" top="0" tabpos="46" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1252" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\usb\device\msd.c" open="0" top="0" tabpos="29" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="615" topLine="16" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\ble\le_net_cfg_turing.c" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13342" topLine="337" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\btstack\btstack_task.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="67" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\asr\roobo\fig_asr_type.h" open="0" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="90" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\btctrler\btcontroller_modules.h" open="1" top="0" tabpos="41" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6336" topLine="175" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\cpu\wl82\asm\hwi.h" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3419" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\net\testbox\client.c" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21681" topLine="680" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\debug\debug.c" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="46" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\bt_ble\bt_emitter.c" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9530" topLine="295" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\app_config.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1848" topLine="44" />
+		</Cursor>
+	</File>
+	<File name="..\..\app_main.c" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="-3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7653" topLine="144" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\usb\host\usb_bulk_transfer.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3063" topLine="60" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\update\net_single_backup_update.c" open="1" top="0" tabpos="60" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="18066" topLine="493" />
+		</Cursor>
+	</File>
+	<File name="..\..\wifi_app_task_Print.c" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="284" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\ble\mesh\examples\vendor_server.c" open="0" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="322" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\ble\include\le_common.h" open="1" top="0" tabpos="42" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="925" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\cpu\wl82\asm\adc_api.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1259" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\sockets.h" open="1" top="0" tabpos="31" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6359" topLine="162" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\net\json_c\printbuf.h" open="0" top="0" tabpos="24" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3416" topLine="53" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\net\wifi_conf.c" open="1" top="0" tabpos="32" split="0" active="1" splitpos="0" zoom_1="14" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4739" topLine="80" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\include\bt_common.h" open="1" top="0" tabpos="48" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\generic\log.h" open="0" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2942" topLine="67" />
+		</Cursor>
+	</File>
+	<File name="..\..\wifi_app_task.c" open="1" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1201" topLine="33" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\usb\device\descriptor.c" open="1" top="0" tabpos="61" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3345" topLine="100" />
+		</Cursor>
+	</File>
+	<File name="board_config.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="18449" topLine="347" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\ble\mesh\examples\AliGenie_fan.c" open="0" top="0" tabpos="41" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8413" topLine="253" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\ble\le_net_cfg_tencent.c" open="0" top="0" tabpos="26" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="38236" topLine="1096" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\asr\jlkws\jlkws.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2608" topLine="56" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\net\config_network.c" open="1" top="0" tabpos="25" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="901" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\os\FreeRTOS\deprecated_definitions.h" open="1" top="0" tabpos="53" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\bt_ble\bt_decode.c" open="0" top="0" tabpos="24" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="445" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\WeiTingCommon.h" open="1" top="0" tabpos="39" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="679" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\usb\device\uvc.c" open="0" top="0" tabpos="25" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="55592" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\wifi_app_task_Print.h" open="1" top="0" tabpos="47" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="360" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\device\gpio.h" open="1" top="0" tabpos="58" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1206" topLine="49" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\os\FreeRTOS\portable.h" open="0" top="0" tabpos="37" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7430" topLine="136" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\zlib-1.3\deflate.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1318" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\audio_music\audio_eff_default_parm.c" open="0" top="0" tabpos="32" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="244" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\btstack\le\ble_api.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="37531" topLine="858" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\cpu\wl82\asm\cpu.h" open="0" top="0" tabpos="40" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3669" topLine="161" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\jl_math\jl_math.c" open="0" top="0" tabpos="26" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="23831" topLine="706" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\generic\list.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="15" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1565" topLine="33" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\usb\usb_epbuf_manager.c" open="0" top="0" tabpos="28" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\update\fs_update.c" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3095" topLine="89" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\os\os_api.h" open="0" top="0" tabpos="51" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15093" topLine="407" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\ble\mesh\examples\generic_onoff_server.c" open="0" top="0" tabpos="34" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="350" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\ble\le_net_central.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="17" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="19759" topLine="582" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\asr\aisp\aisp.c" open="1" top="0" tabpos="24" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8301" topLine="226" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\os\FreeRTOS\FreeRTOSConfig.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5069" topLine="66" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\usb\device\user_setup.c" open="1" top="0" tabpos="64" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4810" topLine="166" />
+		</Cursor>
+	</File>
+	<File name="board_7911B.c" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="23009" topLine="701" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\task.h" open="1" top="0" tabpos="30" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="110" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\ble\mesh\examples\AliGenie_light.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="330" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\ble\include\le_net_cfg.h" open="1" top="0" tabpos="43" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4565" topLine="66" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\cpu\wl82\debug.c" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4053" topLine="126" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\config\bt_profile_config.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="150" topLine="149" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\config\log_config\lib_update_config.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="193" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\jl_math\jl_fft.c" open="0" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="63910" topLine="1368" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\usb\usb_config.h" open="0" top="0" tabpos="48" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="64" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\audio_music\usb_audio_api.c" open="0" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="315" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\btstack\btstack_event.h" open="1" top="0" tabpos="45" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="73107" topLine="2216" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\system\flash_write_protect.c" open="0" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1545" topLine="25" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\os\FreeRTOS\FreeRTOS.h" open="1" top="0" tabpos="33" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1894" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\debug.h" open="0" top="0" tabpos="25" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1900" topLine="78" />
+		</Cursor>
+	</File>
+	<File name="..\..\bt_ble\ble.c" open="1" top="0" tabpos="40" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3034" topLine="76" />
+		</Cursor>
+	</File>
+	<File name="..\..\PrintDemo\AsciiLib.c" open="1" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="51334" topLine="1115" />
+		</Cursor>
+	</File>
+	<File name="..\..\PrintDemo\AppDriverMain.c" open="1" top="0" tabpos="29" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5509" topLine="531" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\usb\device\usb_device.c" open="0" top="0" tabpos="36" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1611" topLine="33" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\utils\btmesh\adaptation\adaptation.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7915" topLine="286" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\btstack\avctp_user.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7208" topLine="164" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\zlib-1.3\inflate.c" open="0" top="0" tabpos="39" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="48882" topLine="1255" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\net\lwip_2_1_3\lwip\port\lwip.h" open="1" top="0" tabpos="62" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2950" topLine="82" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\net\platform_cfg.c" open="1" top="0" tabpos="26" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4436" topLine="163" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\net\wifi\wifi_connect.h" open="1" top="0" tabpos="23" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7659" topLine="222" />
+		</Cursor>
+	</File>
+	<File name="..\..\app_music_tencent.c" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="45918" topLine="1506" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\update\http_update.c" open="0" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="33" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\ble\le_net_cfg.c" open="1" top="0" tabpos="34" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="41033" topLine="1218" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\cpu\wl82\asm\gpio.h" open="1" top="0" tabpos="50" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="899" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\malloc.h" open="1" top="0" tabpos="56" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="988" topLine="17" />
+		</Cursor>
+	</File>
+	<File name="..\..\PrintDemo\AppNVS.c" open="1" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1614" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\cpu\wl82\asm\uart.h" open="0" top="0" tabpos="23" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="246" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\sys_time.h" open="0" top="0" tabpos="30" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="18" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\asr\roobo\roobo.c" open="0" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2227" topLine="57" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\ble\multi_demo\le_multi_trans.c" open="0" top="0" tabpos="25" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22804" topLine="639" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\generic\printf.h" open="0" top="0" tabpos="27" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="395" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\usb\host\usbnet.c" open="0" top="0" tabpos="53" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="20152" topLine="504" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\usb\usb_common_def.h" open="0" top="0" tabpos="49" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4988" topLine="94" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\cpu\wl82\asm\sbc.h" open="0" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1585" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\ble\le_net_cfg_dui.c" open="1" top="0" tabpos="38" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12321" topLine="307" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\init.h" open="1" top="0" tabpos="52" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="288" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\net\server\rt_stream_pkg.h" open="0" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="907" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="..\..\PrintDemo\AppDriverGeneric.h" open="1" top="0" tabpos="66" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8287" topLine="230" />
+		</Cursor>
+	</File>
+	<File name="..\..\app_music_dui.c" open="0" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="982" topLine="35" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\usb\device\task_pc.c" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8467" topLine="287" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\device\ioctl_cmds.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="772" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\os\FreeRTOS\task.h" open="0" top="0" tabpos="38" split="0" active="1" splitpos="0" zoom_1="12" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9900" topLine="196" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\audio_music\effects_adj.c" open="0" top="0" tabpos="50" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="56752" topLine="1561" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\key\slidekey.c" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1741" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\bt_ble\bt_music.c" open="1" top="0" tabpos="36" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1270" topLine="20" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\ble\le_hogp.c" open="1" top="0" tabpos="63" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="46177" topLine="1304" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\cpu\wl82\key\adc_api.c" open="1" top="0" tabpos="59" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5914" topLine="271" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\cpu\wl82\asm\debug.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="77" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\config\user_cfg.c" open="1" top="0" tabpos="35" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3215" topLine="74" />
+		</Cursor>
+	</File>
+	<File name="..\..\PrintDemo\AppDriverCommand.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="18692" topLine="32" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\usb\device\hid.c" open="0" top="0" tabpos="27" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8357" topLine="217" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\cpu\wl82\asm\wdt.h" open="0" top="0" tabpos="30" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1099" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\os\FreeRTOS\pi32v2\portmacro.h" open="0" top="0" tabpos="41" split="0" active="1" splitpos="0" zoom_1="14" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4915" topLine="103" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\utils\syscfg\syscfg_id.h" open="1" top="0" tabpos="65" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4654" topLine="94" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\netif.h" open="0" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13454" topLine="349" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\zlib-1.3\trees.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="19058" topLine="520" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\ble\multi_demo\le_multi_client.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1485" topLine="34" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\net\iperf_test.c" open="1" top="0" tabpos="28" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="16279" topLine="283" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\zlib-1.3\deflate.c" open="0" top="0" tabpos="34" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="64679" topLine="1633" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\net\lwip_2_1_3\lwip\app\sock_api\sock_api.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="12" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10579" topLine="228" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\config\new_cfg_tool.c" open="0" top="0" tabpos="39" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5031" topLine="182" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\rf_fcc_tool\rf_fcc_main.c" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="14" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="56141" topLine="1643" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\system\init.c" open="0" top="0" tabpos="54" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3038" topLine="85" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\includes.h" open="1" top="0" tabpos="51" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="183" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\PrintDemo\AppDriverBase.c" open="1" top="1" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9551" topLine="304" />
+		</Cursor>
+	</File>
+	<File name="..\..\app_music.c" open="1" top="0" tabpos="68" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1474" topLine="43" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\update\update.c" open="0" top="0" tabpos="48" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6908" topLine="232" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\os\os_cpu.h" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1892" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\ble\mesh\model_api.c" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2321" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\opt.h" open="1" top="0" tabpos="55" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8865" topLine="244" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\audio_music\audio_config.c" open="0" top="0" tabpos="47" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13000" topLine="315" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\net\assign_macaddr.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7629" topLine="226" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\app_music.h" open="1" top="0" tabpos="27" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\usb\host\uvc_host.c" open="0" top="0" tabpos="47" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3235" topLine="81" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\usb\usb_config.c" open="0" top="0" tabpos="46" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8577" topLine="31" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\audio_music\wifi_upload_pcm.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="13" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1076" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\btstack\bluetooth.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13744" topLine="366" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\config\log_config\lib_system_config.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="634" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\system\device_mount.c" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="892" topLine="20" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\debug\debug_user.c" open="0" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="293" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\generic\typedef.h" open="1" top="0" tabpos="57" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="358" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\PrintDemo\AppDriver.h" open="1" top="0" tabpos="67" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="66" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\ble\le_trans_data.c" open="1" top="0" tabpos="44" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5039" topLine="72" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\net\lwip_2_1_3\lwip\port\lwipopts.h" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3896" topLine="106" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\os\FreeRTOS\mpu_wrappers.h" open="0" top="0" tabpos="38" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9758" topLine="30" />
+		</Cursor>
+	</File>
+	<File name="..\..\bt_ble\bt_emitter.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\usb\host\usb_storage.c" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2686" topLine="80" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\zlib-1.3\gzwrite.c" open="0" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="757" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\stats.h" open="1" top="0" tabpos="54" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12908" topLine="368" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\btctrler\classic\hci_lmp.h" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="13" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1454" topLine="47" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\cpu\wl82\asm\WL82.h" open="1" top="0" tabpos="49" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10362" topLine="295" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\cpu\wl82\setup.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="834" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\ble\multi_demo\le_multi_common.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12878" topLine="429" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

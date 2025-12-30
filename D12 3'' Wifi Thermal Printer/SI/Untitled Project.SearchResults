@@ -1,0 +1,11 @@
+---- GET DEVICE ID OK Matches (1 in 1 files) ----
+User_setup.c (apps\common\usb\device):173
+               printf("sang:GET DEVICE ID OK--------------------\r\n");
+               u8 DeviceIDPrinter[512]={0};
+               DeviceIDPrinter[0]=0;
+---- PrintBLink.PageNum Matches (0 in 0 files) ----
+---- WiFi waitting Matches (1 in 1 files) ----
+AppDriverMain.c (apps\...\printdemo):87
+		printf("WiFi waitting---------\r");
+	 }
+ }

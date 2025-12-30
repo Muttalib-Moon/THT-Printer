@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="..\..\..\..\include_lib\driver\device\usb\device\usb_stack.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3538" topLine="46" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\server\server_core.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1470" topLine="47" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\net\lwip_2_1_3\lwip\app\dhcp_srv\dhcp_srv.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\utils\event\key_event.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1774" topLine="57" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\app_core.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="468" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\opt.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="24101" topLine="706" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\net\lwip_2_1_3\lwip\port\lwipopts.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7299" topLine="208" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\netif.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3969" topLine="77" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\app_config.h" open="1" top="1" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="878" topLine="111" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\net\wifi\wifi_connect.h" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4627" topLine="144" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\device\device.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1340" topLine="35" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\inet.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2416" topLine="47" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\net\lwip_2_1_3\lwip\src\include\lwip\ip4_addr.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1736" topLine="48" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
